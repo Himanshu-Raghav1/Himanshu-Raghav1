@@ -16,7 +16,7 @@ I'm a passionate developer with interests in Machine Learning, data science and 
 - [Heart Disease Prediction](https://github.com/Himanshu-Raghav1/Heart-Disease-Prediction): Predicts heart disease risk.
 - [Real_Estate_Price_Predictor](https://github.com/Himanshu-Raghav1/Real_Estate_Price_Estimator):AI powered Real-Estate price prediction.
 - [Graphic Design poster](https://drive.google.com/file/d/1I2ftfsPF1KiFBREtxkGVVxLDIXyr-yqG/view?usp=sharing): my 1st photoshop
-- [Porshe911](https://drive.google.com/file/d/19C9NRyZJ3aqFfUS46Ffuwj3n3IAfoFx9/view?usp=sharing): Porsche-911
+- [Porshe911](https://drive.google.com/file/d/19C9NRyZJ3aqFfUS46Ffuwj3n3IAfoFx9/view?usp=sharing): my 2nd photoshop
 
 ## Currently Working on Newsletter and Research Papers
   
